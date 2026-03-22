@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** [Maria Luíza Reis Rodrigues]
+**Matrícula:** [20261100095]
 ---
 
 ## 🎯 Objetivo
@@ -46,13 +46,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Primeiramente, para criar o hexágono testei diversos ângulos dentro do loop para saber qual era o ideal para fazer as arestas. Incialmente, criei um quadrado de 90º e depois fui diminuindo o ângulo e notei que os lados aumentavam, assim, cheguei a conclusão que o ideal era 60º para formar o hexágono. Posteriormente para desenhar 4 hexágonos na tela, eu utilizei um loop formando um quadrado onde cada vértice era a posição inicial para desenhar o hexágono. Com isso, coloquei o loop da criação de hexágono dentro do loop de posição formando a figura final que é semelhante a uma flor. 
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** Para fazer o hexágono o loop principal tem 6 repetições e o ângulo é 60º.
   
-**B)** Escreva aqui...
+**B)** Para começar o próximo hexágono o ângulo utilizado foi 90º e avançando 100 pixels na tela. Assim, repetindo 4 vezes formando um quadrado onde cada hexágano foi criado em uma ponta. 
   
-**C)** Escreva aqui...
+**C)** Para descobrir A eu criei um quadrado de 90º e depois fui diminuindo o ângulo e notei que os lados aumentavam, assim, cheguei a conclusão que o ideal era 60º para formar o hexágono. Para B, eu já sabia que um quadrado tem os ângulos de 90º.
 
 ---
